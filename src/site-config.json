@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "CRUZ FENCE LLC.",
+    "phone": "+17082967180",
+    "category": "fence contractor",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Chicago's Trusted Fence Experts",
+      "heroSubline": "Cruz Fence LLC delivers durable, quality fences built to withstand Chicago winters. Get a free quote today!",
+      "aboutTitle": "Built on Integrity, Driven by Quality",
+      "aboutText": [
+        "Cruz Fence LLC started with a simple mission: provide Chicago homeowners with fences that last. Founded by seasoned tradesmen, we saw a need for reliable fence contractors who understood the unique challenges of the Chicago climate.",
+        "Our approach is hands-on and detail-oriented. We believe in clear communication, honest pricing, and unwavering commitment to quality craftsmanship. We're not just building fences; we're building lasting relationships with our clients.",
+        "We're proud to be a part of the Chicago community. We actively support local initiatives and strive to give back whenever possible. When you choose Cruz Fence, you're choosing a company that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Weather-Resistant Builds",
+          "description": "We use premium materials and expert techniques to ensure your fence withstands Chicago's harsh winters and humid summers."
+        },
+        {
+          "title": "Custom Design Options",
+          "description": "From classic wood to modern metal, we offer a wide range of styles to complement your home and personal taste."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise and efficient installation, minimizing disruption to your property and maximizing fence longevity."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront quotes with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Ready for a Free Fence Quote?",
+      "ctaSubline": "Contact Cruz Fence LLC today to discuss your project and get a competitive estimate."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences installed with Chicago's climate in mind.",
+        "description": "Wood fences offer timeless appeal and natural beauty, making them a popular choice for Chicago homeowners. At Cruz Fence LLC, we specialize in crafting durable wood fences that stand up to the elements. We carefully select premium lumber, treated to resist rot, decay, and insect infestation. Our skilled installers use proven techniques to ensure proper post setting and secure construction, minimizing the effects of freeze-thaw cycles. \n\nChoose from a variety of wood types, including cedar, redwood, and pressure-treated pine. We also offer a range of styles, from traditional picket fences to privacy fences and decorative designs. Our team will work with you to create a custom wood fence that complements your home's architecture and meets your specific needs.\n\nWe understand the importance of proper drainage and ventilation for wood fences in Chicago. Our installations are designed to promote airflow and prevent moisture buildup, extending the life of your fence. We also offer staining and sealing services to protect your wood fence from the elements and enhance its natural beauty.\n\nWith Cruz Fence LLC, you can be confident that your wood fence will provide years of beauty, security, and privacy.",
+        "process": [
+          "Consultation and Design",
+          "Material Selection",
+          "Precise Installation",
+          "Finishing and Sealing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Privacy",
+          "Property Definition",
+          "Natural Beauty"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for Chicago's climate?",
+            "answer": "Cedar and pressure-treated pine are excellent choices due to their natural resistance to rot and decay. We can advise on the best option for your specific needs and budget."
+          },
+          {
+            "question": "How long will a wood fence last in Chicago?",
+            "answer": "With proper installation and maintenance, a wood fence can last 15-20 years or more. Regular staining and sealing will help protect the wood from the elements."
+          },
+          {
+            "question": "Do you offer wood fence repair services?",
+            "answer": "Yes, we offer comprehensive wood fence repair services to address damage from weather, accidents, or normal wear and tear."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences built to last.",
+        "description": "Vinyl fences are a practical and durable option for Chicago homeowners seeking a low-maintenance fencing solution. Cruz Fence LLC offers a wide selection of high-quality vinyl fences that are resistant to fading, cracking, and warping. Our vinyl fences are engineered to withstand the rigors of Chicago's climate, including extreme temperatures and heavy snowfall.\n\nWe offer a variety of vinyl fence styles, including privacy fences, picket fences, and ranch rail fences. Choose from a range of colors and textures to complement your home's exterior. Our experienced installers ensure precise and secure installation, ensuring your vinyl fence will provide years of trouble-free performance.\n\nUnlike wood fences, vinyl fences require no painting, staining, or sealing. Simply wash them down with soap and water to keep them looking their best. This makes vinyl fences an ideal choice for busy homeowners who want a beautiful and durable fence without the hassle of regular maintenance.\n\nCruz Fence LLC uses only premium-grade vinyl materials that are backed by manufacturer warranties. We are committed to providing our customers with the highest quality vinyl fences and expert installation services.",
+        "process": [
+          "Site Assessment",
+          "Precise Measurements",
+          "Professional Installation",
+          "Quality Inspection"
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Extreme Durability",
+          "Variety of Styles",
+          "Weather Resistance"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A high-quality vinyl fence can last 30 years or more with minimal maintenance. It's a long-term investment that adds value to your property."
+          },
+          {
+            "question": "Will a vinyl fence fade in the sun?",
+            "answer": "Our vinyl fences are made with UV inhibitors to prevent fading and discoloration. They will maintain their color and appearance for many years."
+          },
+          {
+            "question": "Can a vinyl fence be repaired if damaged?",
+            "answer": "Minor damage to a vinyl fence can often be repaired. More extensive damage may require replacement of the affected section."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fence-installation",
+        "name": "Aluminum Fence Installation",
+        "shortDescription": "Elegant and secure aluminum fences for Chicago properties.",
+        "description": "Aluminum fences offer a combination of elegance, security, and durability, making them a popular choice for Chicago homeowners. Cruz Fence LLC specializes in installing high-quality aluminum fences that enhance the beauty and security of your property. Our aluminum fences are made from rust-resistant alloys and finished with a durable powder coating, ensuring they can withstand the harsh Chicago weather.\n\nWe offer a variety of aluminum fence styles, including ornamental fences, pool fences, and security fences. Choose from a range of colors and heights to customize your fence to your specific needs and preferences. Our experienced installers ensure precise and secure installation, providing you with a fence that will last for years to come.\n\nAluminum fences are virtually maintenance-free. They require no painting, staining, or sealing. Simply wash them down with soap and water to keep them looking their best. This makes aluminum fences an ideal choice for homeowners who want a beautiful and durable fence without the hassle of regular upkeep.\n\nCruz Fence LLC is committed to providing our customers with the highest quality aluminum fences and expert installation services. We offer free consultations and estimates to help you choose the perfect aluminum fence for your property.",
+        "process": [
+          "Design Consultation",
+          "Permit Acquisition",
+          "Professional Installation",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Elegant Design",
+          "Enhanced Security",
+          "Maintenance-Free",
+          "Rust Resistance"
+        ],
+        "faq": [
+          {
+            "question": "Are aluminum fences strong enough for security?",
+            "answer": "Yes, aluminum fences are surprisingly strong and can provide excellent security. We offer a variety of security fence options with enhanced features such as taller heights and tighter picket spacing."
+          },
+          {
+            "question": "Can an aluminum fence be used around a pool?",
+            "answer": "Yes, we offer aluminum pool fences that meet all local safety codes. These fences are designed to prevent unauthorized access to your pool area."
+          },
+          {
+            "question": "Do I need a permit to install an aluminum fence in Chicago?",
+            "answer": "Yes, most fence installations in Chicago require a permit. We can assist you with the permit application process."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and practical chain link fences for security and containment.",
+        "description": "Chain link fences are a cost-effective and practical solution for security and containment in Chicago. Cruz Fence LLC offers a wide range of chain link fence options to meet your specific needs. Our chain link fences are made from galvanized steel and are resistant to rust and corrosion, ensuring they can withstand the elements.\n\nWe offer a variety of chain link fence heights and gauges to suit your security requirements. Choose from standard galvanized finish or a variety of colored coatings to blend with your surroundings. Our experienced installers ensure precise and secure installation, providing you with a fence that will provide years of reliable service.\n\nChain link fences are virtually maintenance-free. They require no painting, staining, or sealing. This makes them an ideal choice for homeowners and businesses who want a durable and affordable fence without the hassle of regular upkeep.\n\nCruz Fence LLC is committed to providing our customers with the highest quality chain link fences and expert installation services. We offer free consultations and estimates to help you choose the perfect chain link fence for your property.",
+        "process": [
+          "Site Preparation",
+          "Post Installation",
+          "Mesh Installation",
+          "Gate Installation"
+        ],
+        "benefits": [
+          "Affordable Security",
+          "Durable and Reliable",
+          "Low Maintenance",
+          "Effective Containment"
+        ],
+        "faq": [
+          {
+            "question": "How long will a chain link fence last?",
+            "answer": "A galvanized steel chain link fence can last 20 years or more with minimal maintenance."
+          },
+          {
+            "question": "Can I add privacy slats to a chain link fence?",
+            "answer": "Yes, we offer a variety of privacy slats that can be added to a chain link fence to increase privacy and security."
+          },
+          {
+            "question": "Do you offer gate installation for chain link fences?",
+            "answer": "Yes, we offer a wide range of gate options for chain link fences, including swing gates, slide gates, and automatic gates."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair-services",
+        "name": "Fence Repair Services",
+        "shortDescription": "Reliable fence repair to keep your fence strong and secure.",
+        "description": "Chicago's harsh weather can take a toll on fences. Cruz Fence LLC offers comprehensive fence repair services to keep your fence strong, secure, and looking its best. We handle all types of fence repairs, from replacing damaged posts and panels to fixing gates and latches.\n\nOur experienced technicians can assess the damage to your fence and provide you with a cost-effective repair solution. We use high-quality materials and proven techniques to ensure lasting repairs. We work with all types of fences, including wood, vinyl, aluminum, and chain link.\n\nWhether your fence has been damaged by wind, snow, or an accident, Cruz Fence LLC is here to help. We offer prompt and reliable service to minimize disruption to your property. We also offer emergency fence repair services for urgent situations.\n\nDon't let a damaged fence compromise your security or curb appeal. Contact Cruz Fence LLC today for a free estimate on fence repair services.",
+        "process": [
+          "Inspection and Assessment",
+          "Material Procurement",
+          "Expert Repairs",
+          "Quality Assurance"
+        ],
+        "benefits": [
+          "Improved Security",
+          "Enhanced Curb Appeal",
+          "Extended Fence Life",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fence. We offer free estimates to provide you with an accurate cost assessment."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for urgent situations such as storm damage or security breaches."
+          },
+          {
+            "question": "Can you repair a leaning fence?",
+            "answer": "Yes, we can repair leaning fences by replacing or reinforcing the damaged posts and panels."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gates professionally installed and repaired.",
+        "description": "A properly functioning gate is essential for security, convenience, and curb appeal. Cruz Fence LLC offers comprehensive gate installation and repair services in Chicago. We install and repair all types of gates, including swing gates, slide gates, and automatic gates.\n\nWe offer a wide selection of gate styles and materials to complement your fence and meet your specific needs. Choose from wood, vinyl, aluminum, and chain link gate options. Our experienced installers ensure precise and secure installation, providing you with a gate that will function smoothly and reliably for years to come.\n\nWe also offer gate repair services to address issues such as sagging gates, broken latches, and malfunctioning automatic gate openers. Our technicians can diagnose the problem and provide you with a cost-effective repair solution.\n\nWhether you need a new gate installed or an existing gate repaired, Cruz Fence LLC is here to help. Contact us today for a free estimate.",
+        "process": [
+          "Consultation and Design",
+          "Precise Installation",
+          "Automation Options",
+          "Maintenance Services"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Access",
+          "Increased Property Value",
+          "Convenient Operation"
+        ],
+        "faq": [
+          {
+            "question": "How much does gate installation cost?",
+            "answer": "The cost of gate installation depends on the type of gate, the materials used, and the complexity of the installation. We offer free estimates to provide you with an accurate cost assessment."
+          },
+          {
+            "question": "Do you install automatic gates?",
+            "answer": "Yes, we install a wide range of automatic gates, including swing gates, slide gates, and barrier gates."
+          },
+          {
+            "question": "Can you repair a broken gate latch?",
+            "answer": "Yes, we can repair or replace broken gate latches to ensure your gate is secure."
+          }
+        ]
+      },
+      {
+        "slug": "fence-staining-sealing",
+        "name": "Fence Staining & Sealing",
+        "shortDescription": "Protect and beautify your wood fence with professional staining and sealing.",
+        "description": "Protect your investment and enhance the beauty of your wood fence with professional staining and sealing services from Cruz Fence LLC. Chicago's weather can be harsh on wood fences, causing them to fade, crack, and warp. Staining and sealing your fence helps to protect it from the elements and extend its lifespan.\n\nWe use high-quality stains and sealants that are specifically designed for wood fences. Our experienced technicians apply the stain and sealant evenly to ensure maximum protection and a beautiful finish. We offer a variety of stain colors to complement your home and personal taste.\n\nRegular staining and sealing will help to prevent moisture damage, UV damage, and insect infestation. It will also enhance the natural beauty of the wood and keep your fence looking its best for years to come.\n\nContact Cruz Fence LLC today for a free estimate on fence staining and sealing services.",
+        "process": [
+          "Surface Preparation",
+          "Stain Selection",
+          "Professional Application",
+          "Protective Sealing"
+        ],
+        "benefits": [
+          "Extended Fence Life",
+          "Enhanced Beauty",
+          "Protection from Elements",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain and seal my wood fence?",
+            "answer": "We recommend staining and sealing your wood fence every 2-3 years to maintain its protection and beauty."
+          },
+          {
+            "question": "What type of stain is best for my fence?",
+            "answer": "We offer a variety of stain options, including oil-based and water-based stains. We can help you choose the best stain for your specific needs and preferences."
+          },
+          {
+            "question": "Do I need to clean my fence before staining and sealing?",
+            "answer": "Yes, it's important to clean your fence thoroughly before staining and sealing to remove any dirt, mildew, or old sealant."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Naperville",
+        "slug": "naperville-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is proud to offer our expert fence installation and repair services to the residents of Naperville, Illinois. Known for its upscale family homes built primarily between the 1970s and 2000s, Naperville presents unique fencing needs, from securing spacious backyards to enhancing the curb appeal of well-maintained properties. We understand the importance of a durable and aesthetically pleasing fence in this community. \n\nOur team has extensive experience working with Naperville homeowners, providing solutions tailored to the area's specific architectural styles and landscaping preferences. Whether you're looking for a classic wood fence, a low-maintenance vinyl fence, or a secure chain-link fence, we have the expertise to deliver exceptional results. Considering Naperville's harsh winters and heavy snow, we ensure all our fence installations are built to withstand the elements.\n\nWe are committed to providing reliable and professional service, using only the highest quality materials and employing skilled craftsmen. CRUZ FENCE LLC is dedicated to exceeding your expectations and ensuring your complete satisfaction with your new or repaired fence.",
+        "localContext": "Naperville, Illinois, is characterized by its upscale family homes constructed between the 1970s and 2000s, requiring durable and aesthetically pleasing fencing solutions.",
+        "nearbyAreas": [
+          "Aurora",
+          "Bolingbrook",
+          "Plainfield"
+        ]
+      },
+      {
+        "city": "Aurora",
+        "slug": "aurora-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is dedicated to serving the diverse fencing needs of Aurora, Illinois. With a housing stock ranging from 1960s to 2000s construction, Aurora presents a variety of fencing styles and requirements. We understand the importance of providing tailored solutions to match the unique character of each home and neighborhood.\n\nOur experienced team is well-versed in installing and repairing all types of fences, from traditional wood fences to modern vinyl and ornamental options. We take pride in our craftsmanship and are committed to using high-quality materials that will withstand Aurora's harsh winters and heavy snow. Securing your property and enhancing its curb appeal are our top priorities.\n\nCRUZ FENCE LLC is committed to providing Aurora residents with reliable, professional, and affordable fencing services. We strive to exceed your expectations and ensure your complete satisfaction with every project we undertake.",
+        "localContext": "Aurora, Illinois, boasts a diverse range of housing styles built from the 1960s to the 2000s, creating varied fencing requirements across the city.",
+        "nearbyAreas": [
+          "Naperville",
+          "Oswego",
+          "Montgomery"
+        ]
+      },
+      {
+        "city": "Schaumburg",
+        "slug": "schaumburg-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is proud to serve the residents of Schaumburg, Illinois, with top-quality fence installation and repair services. Known for its suburban developments primarily built in the 1970s and 1980s, Schaumburg presents specific fencing needs, from defining property lines to creating secure and private outdoor spaces. We understand the importance of a well-maintained and aesthetically pleasing fence in this community.\n\nOur team has extensive experience working with Schaumburg homeowners, providing customized fencing solutions that complement the area's architectural styles and landscaping preferences. We offer a wide range of fencing options, including wood, vinyl, chain-link, and ornamental fences, all built to withstand the harsh winters and heavy snow common in the region. We ensure that every fence is installed with precision and care.\n\nCRUZ FENCE LLC is committed to providing reliable and professional service, using only the highest quality materials and employing skilled craftsmen. We are dedicated to exceeding your expectations and ensuring your complete satisfaction with your new or repaired fence.",
+        "localContext": "Schaumburg, Illinois, is characterized by its suburban developments from the 1970s and 1980s, where fencing plays a vital role in defining property lines and creating private outdoor spaces.",
+        "nearbyAreas": [
+          "Palatine",
+          "Hoffman Estates",
+          "Rolling Meadows"
+        ]
+      },
+      {
+        "city": "Evanston",
+        "slug": "evanston-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is pleased to offer our specialized fencing services to the residents of Evanston, Illinois. With its rich architectural heritage, featuring many historic homes built between the 1890s and 1930s, Evanston requires a delicate approach to fencing that respects the character and charm of these properties. We understand the importance of preserving the historical aesthetic while providing modern functionality and security.\n\nOur team has extensive experience working with Evanston homeowners, providing fencing solutions that complement the historic architecture and enhance the curb appeal of their homes. We offer a variety of fencing options, including wood, wrought iron, and ornamental fences, all carefully selected to match the unique style of the area. We are also mindful of Evanston's proximity to Northwestern University and the need for secure and private spaces.\n\nCRUZ FENCE LLC is committed to providing reliable and professional service, using only the highest quality materials and employing skilled craftsmen. We are dedicated to exceeding your expectations and ensuring your complete satisfaction with your new or repaired fence.",
+        "localContext": "Evanston, Illinois, is known for its historic homes built from the 1890s to the 1930s, demanding fencing solutions that respect the architectural heritage and enhance curb appeal.",
+        "nearbyAreas": [
+          "Skokie",
+          "Wilmette",
+          "Chicago"
+        ]
+      },
+      {
+        "city": "Arlington Heights",
+        "slug": "arlington-heights-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is proud to offer our expert fence installation and repair services to the residents of Arlington Heights, Illinois. Characterized by its established ranch homes built primarily in the 1950s and 1970s, Arlington Heights presents unique fencing needs, from securing spacious backyards to enhancing the curb appeal of well-maintained properties. We understand the importance of a durable and aesthetically pleasing fence in this community. \n\nOur team has extensive experience working with Arlington Heights homeowners, providing solutions tailored to the area's specific architectural styles and landscaping preferences. Whether you're looking for a classic wood fence, a low-maintenance vinyl fence, or a secure chain-link fence, we have the expertise to deliver exceptional results. Considering Arlington Height's harsh winters and heavy snow, we ensure all our fence installations are built to withstand the elements.\n\nWe are committed to providing reliable and professional service, using only the highest quality materials and employing skilled craftsmen. CRUZ FENCE LLC is dedicated to exceeding your expectations and ensuring your complete satisfaction with your new or repaired fence.",
+        "localContext": "Arlington Heights, Illinois, is known for its established ranch homes built in the 1950s-70s, requiring durable and aesthetically pleasing fencing solutions.",
+        "nearbyAreas": [
+          "Mount Prospect",
+          "Rolling Meadows",
+          "Palatine"
+        ]
+      },
+      {
+        "city": "Bolingbrook",
+        "slug": "bolingbrook-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is delighted to extend our professional fencing services to the community of Bolingbrook, Illinois. Bolingbrook has a diverse range of housing styles, and we understand that each property has unique fencing needs. Whether you're looking to enhance your property's security, create a private outdoor space, or simply add curb appeal, we have the expertise to deliver exceptional results.\n\nOur team is well-versed in installing and repairing all types of fences, including wood, vinyl, chain-link, and ornamental options. We use only the highest quality materials to ensure that your fence can withstand Bolingbrook's harsh winters and maintain its beauty for years to come. We take pride in our craftsmanship and are committed to exceeding your expectations.\n\nCRUZ FENCE LLC is dedicated to providing Bolingbrook residents with reliable, affordable, and professional fencing services. We strive to build lasting relationships with our customers and ensure their complete satisfaction with every project we undertake.",
+        "localContext": "Bolingbrook, Illinois, has a diverse range of housing styles, requiring tailored fencing solutions for each property's unique needs.",
+        "nearbyAreas": [
+          "Romeoville",
+          "Naperville",
+          "Woodridge"
+        ]
+      },
+      {
+        "city": "Downers Grove",
+        "slug": "downers-grove-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is proud to offer our high-quality fence installation and repair services to the residents of Downers Grove, Illinois. Known for its mix of historical homes and modern developments, Downers Grove presents a variety of fencing needs, from preserving the charm of older properties to enhancing the privacy and security of newer homes. We understand the importance of providing customized solutions that meet the unique requirements of each property.\n\nOur experienced team is skilled in working with all types of fencing materials, including wood, vinyl, aluminum, and chain-link. We use only the highest quality products to ensure durability and longevity, even in Downers Grove's challenging climate. Whether you need a fence for privacy, security, or aesthetic appeal, we have the expertise to deliver exceptional results.\n\nCRUZ FENCE LLC is committed to providing reliable, professional, and affordable fencing services to the Downers Grove community. We strive to exceed your expectations and ensure your complete satisfaction with every project we undertake.",
+        "localContext": "Downers Grove, Illinois, has a mix of historical homes and modern developments, requiring versatile fencing solutions that cater to different property styles.",
+        "nearbyAreas": [
+          "Lisle",
+          "Westmont",
+          "Darien"
+        ]
+      },
+      {
+        "city": "Mount Prospect",
+        "slug": "mount-prospect-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is pleased to offer comprehensive fencing services to the residents of Mount Prospect, Illinois. Characterized by well-established neighborhoods with a mix of housing styles, Mount Prospect requires a versatile approach to fencing that addresses both aesthetic and functional needs. We understand the importance of providing durable and attractive fencing solutions that enhance property value and security.\n\nOur team has extensive experience working with Mount Prospect homeowners, offering a wide range of fencing options to suit various preferences and budgets. Whether you're looking for a classic wood fence, a low-maintenance vinyl fence, or a secure chain-link fence, we have the expertise to deliver exceptional results. We also take into account Mount Prospect's climate when recommending materials and installation techniques.\n\nCRUZ FENCE LLC is committed to providing reliable and professional service, using only the highest quality materials and employing skilled craftsmen. We are dedicated to exceeding your expectations and ensuring your complete satisfaction with your new or repaired fence.",
+        "localContext": "Mount Prospect, Illinois, is characterized by well-established neighborhoods with a mix of housing styles, requiring versatile fencing solutions that cater to different aesthetic and functional needs.",
+        "nearbyAreas": [
+          "Arlington Heights",
+          "Des Plaines",
+          "Rolling Meadows"
+        ]
+      },
+      {
+        "city": "Palatine",
+        "slug": "palatine-il",
+        "state": "IL",
+        "content": "CRUZ FENCE LLC is proud to serve the fencing needs of Palatine, Illinois. With its mix of residential neighborhoods and commercial areas, Palatine requires a diverse range of fencing solutions. We understand the importance of providing customized services that meet the specific requirements of each property, whether it's enhancing security, creating privacy, or adding aesthetic appeal.\n\nOur team is experienced in installing and repairing all types of fences, from traditional wood fences to modern vinyl and ornamental options. We use only the highest quality materials to ensure durability and longevity, even in Palatine's challenging climate. We are committed to providing exceptional craftsmanship and outstanding customer service.\n\nCRUZ FENCE LLC is dedicated to offering reliable, professional, and affordable fencing services to the Palatine community. We strive to exceed your expectations and ensure your complete satisfaction with every project we undertake.",
+        "localContext": "Palatine, Illinois, has a mix of residential neighborhoods and commercial areas, requiring diverse fencing solutions tailored to specific property needs.",
+        "nearbyAreas": [
+          "Rolling Meadows",
+          "Arlington Heights",
+          "Inverness"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Cruz Fence did an amazing job installing our new cedar fence in Lincoln Park! The crew was professional, efficient, and the fence looks fantastic. They even cleaned up everything afterwards. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "We needed a chain link fence installed quickly for our dog run. Cruz Fence gave us a fair price and got the job done fast. There was a minor issue with the gate, but they came back the next day to fix it. Great service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We chose Cruz Fence to install a vinyl privacy fence in our backyard. The fence is beautiful and provides the privacy we were looking for. The installers were courteous and professional, and the whole process was smooth and easy.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Fence Repair Services",
+        "text": "After a bad storm, our fence was damaged. Cruz Fence came out quickly and repaired it perfectly. You can't even tell there was any damage. They are a reliable company!",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Lisa M.",
+        "rating": 4,
+        "service": "Aluminum Fence Installation",
+        "text": "Cruz Fence installed an aluminum fence around our pool and it looks great! The only reason I didn't give them 5 stars is because there was a slight delay in the installation schedule due to weather, but they communicated the delay clearly.",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Gate Installation & Repair",
+        "text": "Our old gate was falling apart. Cruz Fence replaced it with a beautiful new wood gate that matches our fence perfectly. They did a fantastic job and the price was very reasonable.",
+        "date": "2024-05-03"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Cruz Fence LLC | Chicago Fence Contractor",
+        "description": "Chicago's top fence company. Expert installation & repair for wood, vinyl, aluminum & chain link. Free quotes!"
+      },
+      "about": {
+        "title": "About Cruz Fence LLC | Chicago, IL",
+        "description": "Learn about Cruz Fence LLC's commitment to quality fence installation and repair in the Chicago area."
+      },
+      "services": {
+        "title": "Chicago Fence Services | Installation & Repair",
+        "description": "Cruz Fence LLC offers a full range of fence services: wood, vinyl, aluminum, chain link, repairs & gate work."
+      },
+      "contact": {
+        "title": "Contact Cruz Fence LLC | Chicago, IL",
+        "description": "Get in touch with Cruz Fence LLC for a free fence quote. Serving Chicago and surrounding suburbs."
+      },
+      "reviews": {
+        "title": "Cruz Fence LLC Reviews | Chicago, IL",
+        "description": "Read what our satisfied customers are saying about Cruz Fence LLC's fence installation and repair services."
+      },
+      "service-areas": {
+        "title": "Cruz Fence LLC Service Areas",
+        "description": "Cruz Fence LLC provides fence installation and repair services in Chicago and surrounding suburbs."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "aluminum-fence-installation": "/images/service-aluminum-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "fence-repair-services": "/images/service-fence-repair-services.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp",
+      "fence-staining-sealing": "/images/service-fence-staining-sealing.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fence-installation": {
+        "src": "/images/service-aluminum-fence-installation.webp",
+        "srcset": "/images/service-aluminum-fence-installation-400w.webp 400w, /images/service-aluminum-fence-installation-800w.webp 800w, /images/service-aluminum-fence-installation-1200w.webp 1200w, /images/service-aluminum-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair-services": {
+        "src": "/images/service-fence-repair-services.webp",
+        "srcset": "/images/service-fence-repair-services-400w.webp 400w, /images/service-fence-repair-services-800w.webp 800w, /images/service-fence-repair-services-1200w.webp 1200w, /images/service-fence-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-staining-sealing": {
+        "src": "/images/service-fence-staining-sealing.webp",
+        "srcset": "/images/service-fence-staining-sealing-400w.webp 400w, /images/service-fence-staining-sealing-800w.webp 800w, /images/service-fence-staining-sealing-1200w.webp 1200w, /images/service-fence-staining-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
